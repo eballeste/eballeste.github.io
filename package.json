@@ -4,8 +4,11 @@
   "description": "ugly tests",
   "main": "index.js",
   "repository": {
-  	"url": "https://github.com/eballeste/eballeste.github.io",
-  	"type": "git"
+    "url": "https://github.com/eballeste/eballeste.github.io",
+    "type": "git"
   },
-  "author": "Enrique Ballesté Peralta <enrique.balleste@gmail.com>"
+  "author": "Enrique Ballesté Peralta <enrique.balleste@gmail.com>",
+  "dependencies": {
+    "p5": "^0.5.11"
+  }
 }
