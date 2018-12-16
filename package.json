@@ -1,14 +1,11 @@
 {
   "name": "eballeste.github.io",
   "version": "1.0.0",
-  "description": "ugly scripts",
-  "main": "index.js",
+  "description": "playground",
   "repository": {
     "url": "https://github.com/eballeste/eballeste.github.io",
     "type": "git"
   },
   "author": "Enrique Ballesté Peralta <enrique.balleste@gmail.com>",
-  "dependencies": {
-    "p5": "^0.5.11"
-  }
+  "dependencies": {}
 }
